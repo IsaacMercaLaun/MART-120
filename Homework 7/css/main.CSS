@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+}
+
+.font{font-family: fantasy;
+color: blueviolet;}
+
+.hero{
+    background-image: url('../images/citySkyline.jpg');
+    background-size: cover;
+}
+
+#red{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#blue{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+}
